@@ -1,0 +1,30 @@
+{
+  "name": "corporisquod",
+  "version": "1.9.0",
+  "description": "A tab bar that switches between scenes, written in JS for cross-platform support",
+  "main": "TabNavigator.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MadgeNolan/corporisquod.git"
+  },
+  "keywords": [
+    "react-native",
+    "tab-bar",
+    "navigator",
+    "dolor",
+    "voluptatum"
+  ],
+  "author": "DarioAltenwerth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadgeNolan/corporisquod.git/issues"
+  },
+  "homepage": "https://github.com/MadgeNolan/corporisquod.git",
+  "dependencies": {
+    "cupiditateipsa": "^1.0.0",
+    "earumaperiam": "^2.1.0",
+    "immutable": "^3.8.1",
+    "prop-types": "^15.5.10",
+    "utconsequatur": "^1.0.0"
+  }
+}
